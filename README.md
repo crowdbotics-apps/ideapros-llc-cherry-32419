@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-articles](modules/articles)
 - [react-native-push-notifications](modules/push-notifications)
 - [privacy-policy]()
+- [terms-and-conditions]()
 
 # Getting started: Frontend
 
